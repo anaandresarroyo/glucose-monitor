@@ -1,0 +1,12 @@
+# VSCode workspace
+*.code-workspace
+*.vscode
+
+# Virtual environment
+myvenv/ 
+
+# Jupyter notebook check points
+*/.ipynb_checkpoints/
+
+# Directories in the repository
+data/
